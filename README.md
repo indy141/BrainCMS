@@ -1,10 +1,3 @@
-# D'oh! #
-
-| :warning: Unfortunately, I'm unable be able to continue keeping this GitHub repository up-to-date, due to lack of time. You can always download the latest version of [BrainCMS][1] from the folks at RetroRipper. |
-| --- |
-
-| :information_source: We recommend switching to [Cosmic][12] ([Demo][13]) which is updated frequently and has ton more features (web shop, marketplace, housekeeping etc) and more secure than BrainCMS. |
-| --- |
 
 # BrainCMS #
 
